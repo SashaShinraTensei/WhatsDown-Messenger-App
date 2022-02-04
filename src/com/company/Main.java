@@ -1,4 +1,4 @@
-package se.hkr;
+package com.company;
 
 public class Main {
 
