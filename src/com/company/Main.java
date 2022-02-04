@@ -1,8 +1,12 @@
 package com.company;
 
+import java.io.IOException;
+import java.net.ServerSocket;
+
 public class Main {
 
-    public static void main(String[] args) {
-	// write your code here
+    public static void main(String[] args) throws IOException {
+        Server S = new Server(new ServerSocket(8989));
+        S.startServer();
     }
 }
