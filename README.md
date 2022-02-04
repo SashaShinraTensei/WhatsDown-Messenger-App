@@ -1,2 +1,2 @@
 # WhatsDown-Messenger-App
- WhatsApp but WhatsDown
+ Bootleg version of WhatsApp it's called WhatsDown
